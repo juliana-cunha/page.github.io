@@ -20,7 +20,7 @@ Education
 
 Projects and Grants
 ------
-- PhD Grant by the national Portuguese Foundation of Science and Technology, [FCT](https://www.fct.pt/) (2025-2029)
+- PhD Grant by [FCT](https://www.fct.pt/) (2025-2029)
 - Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming (2023-2025)
 - PhD Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023-2024)
 
