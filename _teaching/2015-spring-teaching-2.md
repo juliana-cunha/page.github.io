@@ -2,7 +2,7 @@
 title: "ALGA"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/alga
+permalink: /teaching
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
