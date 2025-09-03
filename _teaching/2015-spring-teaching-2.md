@@ -13,7 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
-<a href="https://www.youtube.com/watch?v=h2LREH_Q7s8&ab_channel=RoxanneRichardson">Visit our homepage</a>
+<a href="https://www.youtube.com/watch?v=h2LREH_Q7s8&ab_channel=RoxanneRichardson">Visit our homepage please</a>
 
 Heading 2
 ======
