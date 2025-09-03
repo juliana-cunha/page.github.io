@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "ALGA"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Lecture"
+permalink: /teaching/alga
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
@@ -12,6 +12,8 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
+
+<a href="https://www.youtube.com/watch?v=h2LREH_Q7s8&ab_channel=RoxanneRichardson>Visit our homepage</a>
 
 Heading 2
 ======
