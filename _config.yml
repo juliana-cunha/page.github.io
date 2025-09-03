@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "🏠"
 title_separator          : "-"
 name                     : &name "Juliana Cunha"
-description              : &description "Paraconsistent Logic, Automata Theory and Formal Verification."
+description              : &description "PhD Candidate"
 url                      : https://juliana-cunha.github.io/page.github.io
 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other
 #page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Juliana Cunha"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
+  bio              : "Paraconsistent Logic, Automata Theory and Formal Verification."
   location         : "Portugal"
   employer         : "University of Aveiro"
   uri              : # URL
