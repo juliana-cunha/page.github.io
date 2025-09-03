@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 
-help
+Álgebra Linear e Geometria Analítica - A
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+Apontamentos Aulas: 
+------
+
+Notas dos exercícios das Folhas Práticas
+------
+- [FP1](https://juliana-cunha.github.io/page.github.io/files/FP1_res.pdf) atualizalão: 03/09/2025
 
