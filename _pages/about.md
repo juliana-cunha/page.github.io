@@ -7,20 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate at the University of Aveiro in the Mathematics Department supported by a FCT scholarship. I graduated in Mathematics from the University of Porto in 2020 and finished a Msc in Mathematics and Applications at the University of Aveiro in 2023 with a tesis titled "Towards a Specification Theory for Paraconsistent Transition Systems"  [(available here)](https://ria.ua.pt/bitstream/10773/40670/1/Documento_Juliana_Cunha.pdf). My research interests are in paraconsistent logics, automata theory, lattice theory and formal specification. My research mainly focuses on using paraconsistent frameworks in order to reason with inconsistent information in a controlled and sound manner. For my updated curriculum, please visit my [CiênciaVitae](https://www.cienciavitae.pt/en/9D1E-9BD4-3F9E).
+I'm a PhD candidate in the Mathematics Department at the University of Aveiro supported by an FCT scholarship. I graduated in Mathematics from the University of Porto in 2020 and completed an MSc in Mathematics and Applications at the University of Aveiro in 2023, with a thesis titled "Towards a Specification Theory for Paraconsistent Transition Systems" [(available here)](https://ria.ua.pt/bitstream/10773/40670/1/Documento_Juliana_Cunha.pdf). My research interests include paraconsistent logics, automata theory, lattice theory, and formal specification. My work mainly focuses on building paraconsistent frameworks to reason about inconsistent information in a controlled and sound manner.
+
+For my updated curriculum, please visit my [CiênciaVitae](https://www.cienciavitae.pt/en/9D1E-9BD4-3F9E).
 
 
 Education
 ------
-- PhD in Mathematics, Univeristy of Aveiro (2023-2029)
-- Msc in Mathematics and Applications, Univeristy of Aveiro (2020-2023)
+- PhD in Mathematics, University of Aveiro (2023-2029)
+- Msc in Mathematics and Applications, University of Aveiro (2020-2023)
 - Bachelors in Mathematics, FCUP, University of Porto (2017-2020)
 
 Projects and Grants
 ------
-- PhD Research Grant by the national Portuguese Foundation of Science and Technology, [FCT](https://www.fct.pt/) (2025-2029)
-- - Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming (2023-2025)
-- PhD Research Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023-2024)
+- PhD Grant by the national Portuguese Foundation of Science and Technology, [FCT](https://www.fct.pt/) (2025-2029)
+- Collaborator in [Ibex](https://lmf.di.uminho.pt//Ibex/)- Quantitative methods for cyber-physical programming (2023-2025)
+- PhD Grant by [PRR- Plano de Recuperação e Resiliência](https://recuperarportugal.gov.pt/) (2023-2024)
 
 Events
 ------
@@ -35,8 +37,3 @@ Events
 - A first contact with Quantum Computing, University of Aveiro (2022)
 - Third World Logic Day in Aveiro, University of Aveiro (2022)
 - Hands-on quantum computing with Qiskit, University of Aveiro (2021)
-
-
-
--
-(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
