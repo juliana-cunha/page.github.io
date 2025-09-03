@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Álgebra Linear e Geometria Analítica - A"
 permalink: /teaching/
 author_profile: true
 ---
 
-
-Álgebra Linear e Geometria Analítica - A
-======
 
 Apontamentos Aulas: 
 ------
