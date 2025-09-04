@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 
-yeah
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+<ol>
+<! TASE 23>
+  <li>Juliana Cunha, Alexandre Madeira, & Luís Soares Barbosa (2023). Stepwise Development of Paraconsistent Processes. In Theoretical Aspects of Software Engineering - 17th International Symposium, TASE 2023, Bristol, UK, July 4-6, 2023, Proceedings (pp. 327–343). Springer.</li>
+</ol>
